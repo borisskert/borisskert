@@ -22,3 +22,8 @@ And yes, I'm pushing my solutions in repositories to create my own codebase. Hav
 My teammates established a [Kata-Of-The-Week challenge](https://www.codewars.com/collections/kata-of-the-week) to share
 our individual solutions and learn from each other.
 [Join us](www.codewars.com/r/5fecuQ) and solve them in your favorite programming language!
+
+### Some stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=borisskert&show_icons=true&hide_title=true&include_all_commits=true&hide=issues,contribs&hide_border=true" alt="Boris' Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisskert&layout=compact&hide=HTML&hide_border=true" /> |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
