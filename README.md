@@ -17,6 +17,7 @@ And yes, I'm pushing my solutions in repositories to create my own codebase. Hav
 | [kotlin-katas](https://github.com/borisskert/kotlin-katas)         | <img src="./assets/kotlin.svg" alt="kotlin" width="12"/> [Kotlin](https://kotlinlang.org/)                     |                                                                 |
 | [go-katas](https://github.com/borisskert/go-katas)                 | <img src="./assets/go.svg" alt="go" width="12"/> [GoLang](https://go.dev/)                                     |                                                                 |
 | [swift-katas](https://github.com/borisskert/swift-katas)           | <img src="./assets/swift.svg" alt="swift" width="12"/> [Swift](https://www.swift.org/)                         |                                                                 |
+| [clojure-katas](https://github.com/borisskert/clojure-katas)       | <img src="./assets/clojure.svg" alt="clojure" width="12"/> [Clojure](https://www.clojure.org/)                 |                                                                 |
 
 ### [Kata of the Week](https://www.codewars.com/collections/kata-of-the-week)
 
