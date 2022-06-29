@@ -23,7 +23,7 @@ And yes, I'm pushing my solutions in repositories to create my own codebase. Hav
 
 My teammates established a [Kata-Of-The-Week challenge](https://www.codewars.com/collections/kata-of-the-week) to share
 our individual solutions and learn from each other.
-[Join us](www.codewars.com/r/5fecuQ) and solve them in your favorite programming language!
+[Join us](https://www.codewars.com/r/5fecuQ) and solve them in your favorite programming language!
 
 ### Some stats:
 
