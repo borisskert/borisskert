@@ -28,5 +28,7 @@ our individual solutions and learn from each other.
 
 ### Some stats:
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=borisskert" alt="Boris' Github Stream Stats" />
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=borisskert&show_icons=true&hide_title=true&include_all_commits=true&hide=issues,contribs&hide_border=true" alt="Boris' Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisskert&layout=compact&hide=HTML&hide_border=true" /> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
