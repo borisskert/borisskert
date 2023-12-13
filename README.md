@@ -20,15 +20,7 @@ And yes, I'm pushing my solutions in repositories to create my own codebase. Hav
 | [clojure-katas](https://github.com/borisskert/clojure-katas)       | <img src="./assets/clojure.svg" alt="clojure" width="12"/> [Clojure](https://www.clojure.org/)                 |                                                                 |
 | [rust-katas](https://github.com/borisskert/rust-katas)             | <img src="./assets/rust.svg" alt="rust" width="12"/> [Rust](https://www.rust-lang.org/)                        |                                                                 |
 
-### [Kata of the Week](https://www.codewars.com/collections/kata-of-the-week)
-
-My teammates established a [Kata-Of-The-Week challenge](https://www.codewars.com/collections/kata-of-the-week) to share
-our individual solutions and learn from each other.
-[Join us](https://www.codewars.com/r/5fecuQ) and solve them in your favorite programming language!
-
 ### Some stats:
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=borisskert" alt="Boris' Github Stream Stats" />
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=borisskert&show_icons=true&hide_title=true&include_all_commits=true&hide=issues,contribs&hide_border=true" alt="Boris' Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisskert&layout=compact&hide=HTML&hide_border=true" /> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
